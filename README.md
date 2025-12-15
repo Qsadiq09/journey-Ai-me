@@ -1,6 +1,6 @@
 # journey-Ai-me
 My journey into AI writing, clarity, and sustainability
-# 🌱 journey.ai.me
+# journey.ai.me
 
 This is **my journey** into AI — not as a coder, but as a **writer, thinker, and contributor**.
 
